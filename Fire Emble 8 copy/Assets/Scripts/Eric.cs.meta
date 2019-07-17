@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3053f88657572f049b7f776c121be1e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HeadPreview: {instanceID: 0}
+  - Head: {instanceID: 0}
+  - CharacterPic: {instanceID: 0}
+  - headPreview: {fileID: 21300002, guid: c9169cb4f6a3c32448f3d599802ac592, type: 3}
+  - head: {fileID: 21300000, guid: c9169cb4f6a3c32448f3d599802ac592, type: 3}
+  - characterPic: {fileID: 21300000, guid: d8629e1a3d2305f4eadb6365bedcc7ff, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
